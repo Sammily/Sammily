@@ -8,7 +8,7 @@
 
 ### 📜 Certificates :
 - [JavaScript/Front-end 2022](https://app.rs.school/certificate/elnqanye) @ The RSSchool
-- Mentor in Tech Programm as mentee 2022 @ Mentor in Tech
+- Mentor in Tech Program as mentee 2022 @ Mentor in Tech
 
 
 <!--
