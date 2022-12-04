@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, my name is Dasha 👋
+
+### ⚡ My GitHub Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammily&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_title=true)
+
+### :blue_book: Languages :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammily&layout=compact&theme=dracula&hide_title=true)
+
+### 📜 Certificates :
+- [JavaScript/Front-end 2022](https://app.rs.school/certificate/elnqanye) @ The RSSchool
+- Mentor in Tech Programm as mentee 2022 @ Mentor in Tech
+
 
 <!--
 **Sammily/Sammily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
